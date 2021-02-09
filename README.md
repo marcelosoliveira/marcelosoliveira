@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcelo Santos</h1>
-<h3 align="center">Junior frontend developer from Brazil</h3>
+<h3 align="center">Software Development Student|Trybe and Junior frontend developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelosoliveira&label=Profile%20views&color=0e75b6&style=flat" alt="marcelosoliveira" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcelosoliveira" alt="marcelosoliveira" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/marcelobobs" target="blank"><img src="https://img.shields.io/twitter/follow/marcelobobs?logo=twitter&style=for-the-badge" alt="marcelobobs" /></a> </p>
 
 - 🌱 I’m currently learning **DataBase, Java, Node.js, Spring**
 
@@ -20,8 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/marcelobobs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="marcelobobs" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/marcelofullstack/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/marcelofullstack/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/marcelo.santos.bob/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/marcelo.santos.bob/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/marcelofullstack" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="marcelofullstack" height="30" width="40" /></a>
+<a href="https://instagram.com/marcelo.santos.bob" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="marcelo.santos.bob" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
