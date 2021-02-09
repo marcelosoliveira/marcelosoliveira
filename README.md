@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcelo Santos</h1>
-<h3 align="center">Software Development Student | Trybe and Junior frontend developer from Brazil</h3>
+<h3 align="center">Software Development Student|Trybe and Junior frontend developer from Brazil</h3>
 
 <p>Software Development study at Trybe and Analysis and System Development (EAD) course at Estácio de Sá. I am determined to become a FullStack Web Developer, always looking for new challenges that can improve my knowledge. I like to learn new technologies and make new connections. </p>
 
