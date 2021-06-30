@@ -10,6 +10,7 @@
 - 👨‍💻 Featured Projects:
 - [https://github.com/marcelosoliveira/projeto-central-erros](https://github.com/marcelosoliveira/projeto-central-erros)
 - [https://github.com/marcelosoliveira/manager-person-project](https://github.com/marcelosoliveira/manager-person-project)
+- [https://github.com/marcelosoliveira/segware-text-backend](https://github.com/marcelosoliveira/segware-text-backend)
 - [https://github.com/marcelosoliveira/app-receitas](https://github.com/marcelosoliveira/app-receitas)
 
 - 📫 How to reach me **msbobsk8@gmail.com**
