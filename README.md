@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcelo Santos</h1>
-<h3 align="center">Software Development Student|Trybe and Junior backend developer from Brazil</h3>
+<h3 align="center">Software Development Student | Trybe and Junior Fullstack Developer from Brazil</h3>
 
 <p>Software Development study at Trybe and Analysis and System Development (EAD) course at Estácio de Sá. I am determined to become a FullStack Web Developer, always looking for new challenges that can improve my knowledge. I like to learn new technologies and make new connections. </p>
 
@@ -13,7 +13,7 @@
 - [https://github.com/marcelosoliveira/segware-text-backend](https://github.com/marcelosoliveira/segware-text-backend)
 - [https://github.com/marcelosoliveira/app-receitas](https://github.com/marcelosoliveira/app-receitas)
 
-- 📫 How to reach me **msbobsk8@gmail.com**
+- 📫 How to reach me **msbobsk8@hotmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/marcelofullstack/](https://www.linkedin.com/in/marcelofullstack/)
 
