@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcelo Santos</h1>
-<h3 align="center">Software Development Student | Trybe and Junior Fullstack Developer from Brazil</h3>
+<h3 align="center">Junior Fullstack Developer from Brazil</h3>
 
-<p>Software Development at IPE and Analysis and System Development (EAD) course at Estácio de Sá. I am FullStack Web Developer, always looking for new challenges that can improve my knowledge. I like to learn new technologies and make new connections. </p>
+<p>Software Development at Eldorado Research Institute and Analysis and System Development at Estácio de Sá. I am FullStack Web Developer, always looking for new challenges that can improve my knowledge. I like to learn new technologies and make new connections. </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelosoliveira&label=Profile%20views&color=0e75b6&style=flat" alt="marcelosoliveira" /> </p>
 
